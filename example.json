@@ -1,0 +1,150 @@
+{
+    "copyright": "DivineScript, 2024",
+
+    "cover_page": {
+        "original_title": "フェアリ-テイル１００年クエスト",
+        "translated_title": "Fairy Tail: 100 Years Quest",
+        "type": "Doublage non officiel",
+        "credits": {
+            "authors": "Hiro Mashima",
+            "rewriter": "Owen",
+            "adapter": "Owen"
+        },
+        "link": "https://youtu.be/QyvJklv24O0?si=QeI38oAwYFrRs8Dl",
+        "website": "soon.fr",
+        "email": "soon@gmail.com"
+    },
+
+    "roles": {
+        "narrateur": {"gender": "M", "description": ""},
+        "natsu": {"gender": "M", "description": ""},
+        "grey": {"gender": "M", "description": ""},
+        "lucy": {"gender": "F", "description": ""},
+        "happy": {"gender": "M", "description": ""},
+        "wendy": {"gender": "F", "description": ""},
+        "makarof": {"gender": "M", "description": ""},
+        "erza": {"gender": "F", "description": ""},
+        "elefseria": {"gender": "M", "description": ""},
+        "touka": {"gender": "F", "description": ""},
+        "jellal": {"gender": "M", "description": ""},
+        "kiria": {"gender": "F", "description": ""},
+        "skullion-raider": {"gender": "M", "description": ""},
+        "suijin": {"gender": "M", "description": ""},
+        "kashima": {"gender": "M", "description": ""}
+    },
+
+    "dialogs": [
+        [
+            ["narrateur"], "00:05", 
+            "Je n'ai pas le droit de te le dire", 
+            "Vas savourer ta déception"
+        ],
+        [
+            ["makarof"], "00:10",
+            "Une mission que personne n'a réussie depuis la création de la guilde :",
+            "La quête de 100 ans"
+        ],
+        [
+            ["elefseria"], "00:18", 
+            "Bienvenue 99ème équipe de braves", 
+            "Allez accomplir mon souhait,",
+            "jeunes mages"
+        ],
+        [
+            ["happy", "natsu", "grey", "lucy"], "00:28", 
+            "Un dragon !!!!!!"
+        ],
+        [
+            ["natsu"], "00:32", 
+            "Toi, tu es un humain !"
+        ],
+        [
+            ["lucy"], "00:34", 
+            "Dis nous en quoi consiste la quête de 100 ans"
+        ],
+        [
+            ["elefseria"], "00:39", 
+            "Cela signifie que personne au monde ne peut accomplir cette mission"
+        ],
+        [
+            ["wendy"], "00:44", 
+            "La quête de 100 ans... c'est une chasse aux dragons"
+        ],
+        [
+            ["elefseria"], "00:48", 
+            "Autrement dit, vous êtes... mon tout dernier espoir",
+            "Êtes-vous sur de vouloir accepter cette mission ?"
+        ],
+        [
+            ["natsu"], "00:59", 
+            "Éliminer des dragons ?",
+            "Là je suis chaud !"
+        ],
+        [
+            ["grey"], "01:03", 
+            "C'est une ville ça ?"
+        ],
+        [
+            ["kashima"], "01:05", 
+            "On ne vous laissera pas vous en prendre à maître Suijin !"
+        ],
+        [
+            ["kiria"], "01:10", 
+            "Vous êtes des humains ?"
+        ],
+        [
+            ["natsu"], "01:12", 
+            "T'es qui toi ?"
+        ],
+        [
+            ["lucy"], "01:14", 
+            "Manger des dragons les rend forts"
+        ],
+        [
+            ["kiria"], "01:17", 
+            "Une guilde formée seulement de Dragon Eaters :",
+            "Diabolos !"
+        ],
+        [
+            ["natsu"], "01:23", 
+            "On ne vous les laissera pas !"
+        ],
+        [
+            ["suijin"], "01:27", 
+            "Si vous venez faire couler le sang des dragons, partez."
+        ],
+        [
+            ["skullion-raider"], "01:31", 
+            "je vais les bouffer, parole de Dragon Eaters"
+        ],
+        [
+            ["touka"], "01:35", 
+            "Natsu est mon chéri adoré"
+        ],
+        [
+            ["jellal"], "01:38", 
+            "Elle est dangereuse"
+        ],
+        [
+            ["grey"], "01:40", 
+            "Tu seras ma proie"
+        ],
+        [
+            ["erza"], "01:42", 
+            "Nos liens sont indéfectibles"
+        ],
+        [
+            ["wendy"], "01:44", 
+            "Maintenant !"
+        ],
+        [
+            ["lucy"], "01:45", 
+            "De l'avant grâce à mes amis !"
+        ],
+        [
+            ["natsu"], "01:49", 
+            "Ta fabuleuse armure résistera-t-elle à cette chaleur ?",
+            "Craaaaaame !"
+        ]
+    ]
+}
